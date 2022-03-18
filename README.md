@@ -16,7 +16,7 @@ You can see the present time and date zone on the top of the navbar.
 Then I checked the sample of the UI Template that i got. And then I did some research to go on google about to see some relative web site temp. And also i did check  the website of Prothom Alo.  
 
 ### `Deciding`
-After then I decided to make a website. I draw a senary on my mind for the temp. 
+After then I decided to make a website. I draw a senary on my mind for the template. 
 
 
 ### `Creating React-app`
