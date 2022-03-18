@@ -1,0 +1,9 @@
+.newspaper{
+    background-color: rgb(251, 253, 255);
+    border: 1px solid rgb(101, 100, 99);
+    padding: 10px;
+}
+
+.img{
+    width: 400px;
+}

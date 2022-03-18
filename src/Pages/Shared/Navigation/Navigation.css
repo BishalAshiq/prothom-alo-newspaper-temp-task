@@ -1,5 +1,11 @@
-img{
-    width: 100px;
-    margin-top: 10px;
-    border-radius: 3px;
+.logo{
+    width: 400px;
+    margin: 30px;
+}
+
+/* Making Responsive */
+@media only screen and (max-width:688px) {
+    .logo{
+        grid-template-columns: repeat(2, 3fr);
+    }
 }

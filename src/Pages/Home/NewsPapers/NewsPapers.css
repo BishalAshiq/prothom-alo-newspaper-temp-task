@@ -1,0 +1,26 @@
+#newsPapers-container{
+    display: flex;
+    flex-direction: inherit;
+}
+
+.newsPapers{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+.side-camp{
+ width: 200px;
+ margin-left: 10px;
+}
+.PPE{
+    display: flex;
+    width: 20px;
+}
+
+/* Making Responsive */
+@media only screen and (max-width:688px) {
+    .newsPapers{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+

@@ -1,12 +1,12 @@
 import React from 'react';
 import Navigation from '../../Shared/Navigation/Navigation';
-import NewsPaper from '../NewsPapers/NewsPapers';
+import NewsPapers from '../NewsPapers/NewsPapers';
 
 const Home = () => {
     return (
         <div>
             <Navigation></Navigation>
-            <NewsPaper></NewsPaper>
+            <NewsPapers></NewsPapers>
         </div>
     );
 };
