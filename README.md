@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# This is a Newspaper Website Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the Github link (https://github.com/BishalAshiq/prothom-alo-newspaper-temp-task).
 
 ## Available Scripts
+In the project I use React-MUI for framework. 
 
-In the project directory, you can run:
+### `Starting`
+At first I show the task that i have taken in my email. Then I read with much concentrations.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### `Date and time`
+You can see the present time and date zone on the top of the navbar.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `Checking Sample`
+Then I checked the sample of the UI Template that i got. And then I did some research to go on google about to see some relative web site temp. And also i did check  the website of Prothom Alo.  
 
-### `npm test`
+### `Deciding`
+After then I decided to make a website. I draw a senary on my mind for the temp. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `Creating React-app`
+I Created a react-app with the Command Prompt, After creating the app I did to connect the buildtin library React MUI- Material UI. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `Implementing Libraries`
+At first i did implement MUI and its Icons, Svg, and Font. Then I look forword on making components. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `Making-Authentic Component`
+At fist I create a component which name is pages. Because every route/components is in the pages. then i created a home component that has the body or news. 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+###  `Nav Bar`
+I created nav bar in shared component, because there are lots of routers that is on the navbar. That can be switching on different objects.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### `Using Vanilla SCSS`
+I did use Vanilla css also. Because as a junior developer i have to fixed many kind of layout. There are various kind of pages that is connected with CSS.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### `Footer-Items`
+As i saw there are a campaign in the footer item. I did attach a campaign banner.
 
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
