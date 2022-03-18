@@ -8,4 +8,4 @@ const NewsPaper = () => {
     );
 };
 
-export default NewsPaper;
+export default NewsPaper; 
