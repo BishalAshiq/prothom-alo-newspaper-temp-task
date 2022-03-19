@@ -2,7 +2,7 @@ import React from 'react';
 import './NewsPaper.css';
 
 const NewsPaper = ({newsPaper}) => {
-    const {title, description, photo, time, sort} = newsPaper;
+    const {title, description, photo, time,} = newsPaper;
     return (
             <div className='newspaper'>
             <img className='img' src={photo} alt=""/>

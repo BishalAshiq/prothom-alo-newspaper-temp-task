@@ -40,7 +40,7 @@ const TimeDate = () => {
     }
 
     return (
-      <div onLoad="initClock()">
+      <div onLoad={initClock()}>
         <div className='dateTime'>
             <div className='date'>
                 <span id="dayName">Day</span>,
