@@ -1,3 +1,6 @@
+*{
+    margin: 0;
+}
 #newsPapers-container{
     display: flex;
     flex-direction: inherit;
