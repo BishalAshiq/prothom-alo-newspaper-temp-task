@@ -11,12 +11,6 @@ At first I show the task that i have taken in my email. Then I read with much co
 ### `Checking Sample`
 Then I checked the sample of the UI Template that i got. And then I did some research to go on google about to see some relative web site temp. And also i did check  the website of Prothom Alo. 
 
-###  `Nav Bar`
-I created nav bar in shared component, because there are lots of routers that is on the navbar. That can be switching on different objects.
-
-### `Date and time`
-You can see the present time and date zone on the top of the navbar. I made this with vanilla Javascript. 
- 
 
 ### `Deciding`
 After then I decided to make a website. I draw a senary on my mind for the template. 
@@ -33,13 +27,20 @@ At first i did implement MUI and its Icons, Svg, and Font. Then I look forword o
 ### `Making-Authentic Component`
 At fist I create a component which name is pages. Because every route/components is in the pages. then i created a home component that has the body or news. 
 
+###  `Nav Bar`
+I created nav bar in shared component, because there are lots of routers that is on the navbar. That can be switching on different objects.
+
+### `Date and time`
+You can see the present time and date zone on the top of the navbar. I made this with vanilla Javascript. 
+
 
 ### `Using Vanilla SCSS`
 I did use Vanilla css also. Because as a junior developer i have to fixed many kind of layout. There are various kind of pages that is connected with CSS.
 
+
 ### `Footer-Items`
 As i saw there are a campaign in the footer item. I did attach a campaign banner.
 
-### Deployment
 
+### Deployment
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
