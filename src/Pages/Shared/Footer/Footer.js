@@ -5,7 +5,7 @@ import './Footer.css';
 const Footer = () => {
     return (
         <div>
-            <img className='img' src={footerBanner} alt=''/>
+            <img className='imgfooter' src={footerBanner} alt=''/>
         </div>
     );
 };
