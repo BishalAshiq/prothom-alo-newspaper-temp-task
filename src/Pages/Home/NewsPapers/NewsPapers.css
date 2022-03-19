@@ -1,11 +1,8 @@
-*{
-    margin: 0;
-}
+
 #newsPapers-container{
     display: flex;
-    flex-direction: inherit;
+    align-items: center;
 }
-
 .newsPapers{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -15,9 +12,17 @@
  width: 200px;
  margin-left: 10px;
 }
+.sweet{
+    width: 500px;
+}
 .PPE{
     display: flex;
-    width: 20px;
+   text-align: right;
+}
+.PPE img{
+    width: 390px;
+    height: 370px;
+    margin: 10px;
 }
 
 /* Making Responsive */

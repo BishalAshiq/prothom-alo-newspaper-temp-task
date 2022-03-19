@@ -4,6 +4,7 @@ import './NewsPapers.css';
 import Nogod from '../../../Images/Nogod.png';
 import Sweet from '../../../Images/Memories-Sweet-girl.webp';
 import PPE from '../../../Images/PPE.webp';
+import { Container } from '@mui/material';
 
 
 
@@ -16,7 +17,7 @@ const NewsPapers = () => {
     }, []);
 
     return (
-        <div id='newsPapers-container'>
+        <Container id='newsPapers-container'>
             <div className='newsPapers'>
             {
                 newsPapers.map(newsPaper => <NewsPaper
@@ -31,14 +32,14 @@ const NewsPapers = () => {
                 <img src={Nogod} alt=""/>
             </div> <br/>
             <div>
-                <img src={Sweet} alt=''/>
+                <img className='sweet' src={Sweet} alt=''/>
             </div>
             <div className='PPE'>
                 <img src={PPE} alt=''/>
                 <p>করোনা প্রতিরোধে ব্যক্তিগত সুরক্ষা সরঞ্জাম (পিপিই) ও চিকিৎসাসামগ্রী উৎপাদনে বিনিয়োগ সহায়তা মিলছে। এ জন্য একটি প্রকল্প দাঁড় করিয়েছে বাণিজ্য মন্ত্রণালয়, যাতে অর্থায়ন করছে বিশ্বব্যাংক।</p>
             </div>
             </div>
-        </div>
+        </Container>
     );
 };
 

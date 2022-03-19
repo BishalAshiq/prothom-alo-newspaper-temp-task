@@ -4,7 +4,6 @@ import './NewsPaper.css';
 const NewsPaper = ({newsPaper}) => {
     const {title, description, photo, time, sort} = newsPaper;
     return (
-        <container>
             <div className='newspaper'>
             <img className='img' src={photo} alt=""/>
             <div>
@@ -13,7 +12,6 @@ const NewsPaper = ({newsPaper}) => {
             <p>{time}</p>
             </div>
         </div>
-        </container>
     );
 };
 
