@@ -42,5 +42,5 @@ I did use Vanilla css also. Because as a junior developer i have to fixed many k
 As i saw there are a campaign in the footer item. I did attach a campaign banner.
 
 
-### Deployment
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### Live Server
+This is the Live Server (https://modest-joliot-e9d87d.netlify.app)
