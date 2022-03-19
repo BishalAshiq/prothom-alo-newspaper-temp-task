@@ -1,0 +1,32 @@
+.dateTime{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -webkit-box-reflect: below 1px linear-gradient(transparent, rgba(255, 255, 255, 0.1));
+    margin-bottom: 40px;
+}
+
+.date{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.time{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.time span:not(:last-child){
+    position: relative;
+    margin: 0 3px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.time span:last-child{
+    text-transform: uppercase;
+    font-weight: 600;
+}
